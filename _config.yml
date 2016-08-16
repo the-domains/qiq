@@ -6,9 +6,9 @@ color:
   saturation: 0.8637330536730587
   rhythmicContrast: 0.21356591512449086
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: QiQ
